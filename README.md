@@ -12,7 +12,7 @@ The Pulse data platform is built using Python 3.10.* and the [Django framework](
 
 ## Logging
 
-Pulse uses the [Python logging library](9https://docs.python.org/3/library/logging.html) for all debug and error logging.
+Pulse uses the [Python logging library](https://docs.python.org/3/library/logging.html) for all debug and error logging.
 
 ## Database
 
