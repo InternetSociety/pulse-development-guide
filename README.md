@@ -23,7 +23,7 @@ Pulse frontend and backend servers rely on PostgreSQL for their database functio
 Pulse makes use of [django-countries-hdx](https://github.com/InternetSociety/django-countries-hdx) to add extra M49 data to django-countries.
 It uses hdx-python-country with the default data augmented by more UN data to provide SIDS, LLDC and LDC grouping data.
 
-Should we say anything about [django-ixp-tracker](https://github.com/InternetSociety/django-ixp-tracker) here?
+Pulse makes use of [django-ixp-tracker](https://github.com/InternetSociety/django-ixp-tracker) which may be of interest if your project is related to IXP deployment.
 
 ## Tests
 
