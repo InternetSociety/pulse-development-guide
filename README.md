@@ -43,7 +43,8 @@ Now pre-commit will run automatically on git push.
 
 ## Documentation with Sphinx
 
-Pulse automatically generates documentation regarding data sources and measurement frequency based on the class definitions in Django models used by the various apps. Include `:source:` and `:source measurement frequency:` in the docstring for the class:
+Pulse automatically generates documentation regarding data sources and measurement frequency based on the Django models used by the various apps.
+Include `:source:` and `:source measurement frequency:` in the docstring for the relevant class:
 
 ```
 class RoutingIncidents(models.Model):
