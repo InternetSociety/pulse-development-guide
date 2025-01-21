@@ -4,6 +4,8 @@
 
 The following are a set of informal, optional guidelines and best practices that, if followed, will help to simplify integration of new functionality into the existing Pulse platform. These guidelines are considered optional because it is understood that researchers need to be free to focus on the topic of their research and often have to deliver research results in compressed timescales. Following strict development rules could become a hindrance to progress and timely delivery. Nevertheless, early adoption of the following practices in development work that has potential for integration with Pulse will help to reduce the time required and work involved in integrating the new functionality with the existing Pulse platform.
 
+Topics below are listed in rough priority order and ease of implementation.
+
 *Any researchers interested in learning more about the architecture, development and deployment practices used by the Pulse dev team are always welcome to meet with the team. The team are always happy to provide guidance on implementing anything listed here.*
 
 ## Logging
