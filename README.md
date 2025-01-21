@@ -26,7 +26,7 @@ Pulse uses the [pytest](https://docs.pytest.org/en/stable/) framework for testin
 
 ## Ruff: pre-commit/linting/formatting
 
-Pulse code repositories use the [pre-commit](https://pre-commit.com/) framework to perform linting and other checks during development. These include code formatting and import sorting with [ruff](https://docs.astral.sh/ruff/), and detecting any private keys you may have accidentally added to the repository. For a full list see the  `.pre-commit-config.yaml` included in this repo. Use of [pre-commit](https://pre-commit.com/) in your repo with the Pulse config.yaml will help to minimise formatting issues during integration.
+Pulse code repositories use the [pre-commit](https://pre-commit.com/) framework to perform linting and other checks during development. These include code formatting and import sorting with [ruff](https://docs.astral.sh/ruff/), and detecting any private keys you may have accidentally added to the repository. For a full list see the  [`.pre-commit-config.yaml`](https://github.com/InternetSociety/pulse-development-guide/blob/main/.pre-commit-config.yaml) included in this repo. Use of [pre-commit](https://pre-commit.com/) in your repo with the Pulse config.yaml will help to minimise formatting issues during integration.
 
 Run pre-commit install to set up the git hook scripts
 
